@@ -1,9 +1,7 @@
 package edu.knoldus.primitivestreams.MapToObjDemo;
 
 import org.junit.Test;
-
 import java.util.List;
-
 import static org.junit.Assert.assertEquals;
 
 /**

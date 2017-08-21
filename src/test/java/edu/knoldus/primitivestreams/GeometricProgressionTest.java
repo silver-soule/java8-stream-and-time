@@ -1,7 +1,6 @@
 package edu.knoldus.primitivestreams;
 
 import org.junit.Test;
-
 import static org.junit.Assert.assertEquals;
 
 /**
